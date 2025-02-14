@@ -1,0 +1,14 @@
+C:\Users\RAAS\Desktop\LABORATORIO 2\Operaciones Lógicas\Operaciones Lógicas\bin\Debug\net8.0\Operaciones Lógicas.exe
+C:\Users\RAAS\Desktop\LABORATORIO 2\Operaciones Lógicas\Operaciones Lógicas\bin\Debug\net8.0\Operaciones Lógicas.deps.json
+C:\Users\RAAS\Desktop\LABORATORIO 2\Operaciones Lógicas\Operaciones Lógicas\bin\Debug\net8.0\Operaciones Lógicas.runtimeconfig.json
+C:\Users\RAAS\Desktop\LABORATORIO 2\Operaciones Lógicas\Operaciones Lógicas\bin\Debug\net8.0\Operaciones Lógicas.dll
+C:\Users\RAAS\Desktop\LABORATORIO 2\Operaciones Lógicas\Operaciones Lógicas\bin\Debug\net8.0\Operaciones Lógicas.pdb
+C:\Users\RAAS\Desktop\LABORATORIO 2\Operaciones Lógicas\Operaciones Lógicas\obj\Debug\net8.0\Operaciones Lógicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RAAS\Desktop\LABORATORIO 2\Operaciones Lógicas\Operaciones Lógicas\obj\Debug\net8.0\Operaciones Lógicas.AssemblyInfoInputs.cache
+C:\Users\RAAS\Desktop\LABORATORIO 2\Operaciones Lógicas\Operaciones Lógicas\obj\Debug\net8.0\Operaciones Lógicas.AssemblyInfo.cs
+C:\Users\RAAS\Desktop\LABORATORIO 2\Operaciones Lógicas\Operaciones Lógicas\obj\Debug\net8.0\Operaciones Lógicas.csproj.CoreCompileInputs.cache
+C:\Users\RAAS\Desktop\LABORATORIO 2\Operaciones Lógicas\Operaciones Lógicas\obj\Debug\net8.0\Operaciones Lógicas.dll
+C:\Users\RAAS\Desktop\LABORATORIO 2\Operaciones Lógicas\Operaciones Lógicas\obj\Debug\net8.0\refint\Operaciones Lógicas.dll
+C:\Users\RAAS\Desktop\LABORATORIO 2\Operaciones Lógicas\Operaciones Lógicas\obj\Debug\net8.0\Operaciones Lógicas.pdb
+C:\Users\RAAS\Desktop\LABORATORIO 2\Operaciones Lógicas\Operaciones Lógicas\obj\Debug\net8.0\Operaciones Lógicas.genruntimeconfig.cache
+C:\Users\RAAS\Desktop\LABORATORIO 2\Operaciones Lógicas\Operaciones Lógicas\obj\Debug\net8.0\ref\Operaciones Lógicas.dll

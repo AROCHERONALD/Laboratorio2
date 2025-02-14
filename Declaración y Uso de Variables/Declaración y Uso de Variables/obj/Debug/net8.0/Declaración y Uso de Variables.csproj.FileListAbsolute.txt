@@ -1,0 +1,14 @@
+C:\Users\RAAS\Desktop\LABORATORIO 2\Declaración y Uso de Variables\Declaración y Uso de Variables\bin\Debug\net8.0\Declaración y Uso de Variables.exe
+C:\Users\RAAS\Desktop\LABORATORIO 2\Declaración y Uso de Variables\Declaración y Uso de Variables\bin\Debug\net8.0\Declaración y Uso de Variables.deps.json
+C:\Users\RAAS\Desktop\LABORATORIO 2\Declaración y Uso de Variables\Declaración y Uso de Variables\bin\Debug\net8.0\Declaración y Uso de Variables.runtimeconfig.json
+C:\Users\RAAS\Desktop\LABORATORIO 2\Declaración y Uso de Variables\Declaración y Uso de Variables\bin\Debug\net8.0\Declaración y Uso de Variables.dll
+C:\Users\RAAS\Desktop\LABORATORIO 2\Declaración y Uso de Variables\Declaración y Uso de Variables\bin\Debug\net8.0\Declaración y Uso de Variables.pdb
+C:\Users\RAAS\Desktop\LABORATORIO 2\Declaración y Uso de Variables\Declaración y Uso de Variables\obj\Debug\net8.0\Declaración y Uso de Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RAAS\Desktop\LABORATORIO 2\Declaración y Uso de Variables\Declaración y Uso de Variables\obj\Debug\net8.0\Declaración y Uso de Variables.AssemblyInfoInputs.cache
+C:\Users\RAAS\Desktop\LABORATORIO 2\Declaración y Uso de Variables\Declaración y Uso de Variables\obj\Debug\net8.0\Declaración y Uso de Variables.AssemblyInfo.cs
+C:\Users\RAAS\Desktop\LABORATORIO 2\Declaración y Uso de Variables\Declaración y Uso de Variables\obj\Debug\net8.0\Declaración y Uso de Variables.csproj.CoreCompileInputs.cache
+C:\Users\RAAS\Desktop\LABORATORIO 2\Declaración y Uso de Variables\Declaración y Uso de Variables\obj\Debug\net8.0\Declaración y Uso de Variables.dll
+C:\Users\RAAS\Desktop\LABORATORIO 2\Declaración y Uso de Variables\Declaración y Uso de Variables\obj\Debug\net8.0\refint\Declaración y Uso de Variables.dll
+C:\Users\RAAS\Desktop\LABORATORIO 2\Declaración y Uso de Variables\Declaración y Uso de Variables\obj\Debug\net8.0\Declaración y Uso de Variables.pdb
+C:\Users\RAAS\Desktop\LABORATORIO 2\Declaración y Uso de Variables\Declaración y Uso de Variables\obj\Debug\net8.0\Declaración y Uso de Variables.genruntimeconfig.cache
+C:\Users\RAAS\Desktop\LABORATORIO 2\Declaración y Uso de Variables\Declaración y Uso de Variables\obj\Debug\net8.0\ref\Declaración y Uso de Variables.dll
